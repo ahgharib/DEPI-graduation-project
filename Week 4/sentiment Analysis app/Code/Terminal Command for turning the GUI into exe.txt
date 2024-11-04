@@ -1,0 +1,2 @@
+# the command below needs to run on a terminal that cd is on the location of  the GUI.py file 
+pyinstaller --onefile --windowed --hidden-import=sklearn.pipeline --hidden-import=sklearn.utils.extmath --hidden-import=joblib --hidden-import=numpy --add-data "C:/Users/PC/AppData/Local/Programs/Python/Python312/Lib/site-packages/en_core_web_sm/*;en_core_web_sm" --add-data "C:/Users/PC/OneDrive/Desktop/SQL/Final project/DEPI/Machine learning model/trained_model.joblib;." GUI.py

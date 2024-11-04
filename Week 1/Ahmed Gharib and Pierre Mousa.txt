@@ -1,0 +1,3 @@
+Data Collection: Ahmed Gharib
+Database Design: Pierre Mousa
+Query Analysis: Ahmed Gharib & Pierre Mousa

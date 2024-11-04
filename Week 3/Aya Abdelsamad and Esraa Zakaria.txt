@@ -1,0 +1,3 @@
+Data Cleaning & Preprocessing: Aya Abdelsamad
+NLP Model: Aya Abdelsamad
+Azure Resource Creation & Manegement: Esraa Zakaria
